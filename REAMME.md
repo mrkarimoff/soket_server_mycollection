@@ -1,1 +1,1 @@
-# This is a socket server for myCollections website!
+# This is a socket server for myCollections website.
